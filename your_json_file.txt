@@ -1,0 +1,6 @@
+{
+    "email": "nulla.ante@vestibul.co.uk",
+    "favorite": false,
+    "name": "Allen Raymond",
+    "phone": "(992) 914-3792"
+}
